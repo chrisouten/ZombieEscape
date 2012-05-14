@@ -1,0 +1,10 @@
+C:\Users\couten\Documents\Visual Studio 2010\Projects\xboxchong\SkinnedModel\bin\Debug\SkinnedModel.dll
+C:\Users\couten\Documents\Visual Studio 2010\Projects\xboxchong\SkinnedModel\bin\Debug\SkinnedModel.pdb
+C:\Users\couten\Documents\Visual Studio 2010\Projects\xboxchong\SkinnedModel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\couten\Documents\Visual Studio 2010\Projects\xboxchong\SkinnedModel\obj\Debug\SkinnedModel.dll
+C:\Users\couten\Documents\Visual Studio 2010\Projects\xboxchong\SkinnedModel\obj\Debug\SkinnedModel.pdb
+C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\SkinnedModel\bin\Debug\SkinnedModel.dll
+C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\SkinnedModel\bin\Debug\SkinnedModel.pdb
+C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\SkinnedModel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\SkinnedModel\obj\Debug\SkinnedModel.dll
+C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\SkinnedModel\obj\Debug\SkinnedModel.pdb

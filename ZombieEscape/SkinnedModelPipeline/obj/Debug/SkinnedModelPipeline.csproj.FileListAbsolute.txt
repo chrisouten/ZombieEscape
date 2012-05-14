@@ -1,0 +1,14 @@
+C:\Users\couten\Documents\Visual Studio 2010\Projects\xboxchong\SkinnedModelPipeline\bin\Debug\SkinnedModelPipeline.dll
+C:\Users\couten\Documents\Visual Studio 2010\Projects\xboxchong\SkinnedModelPipeline\bin\Debug\SkinnedModelPipeline.pdb
+C:\Users\couten\Documents\Visual Studio 2010\Projects\xboxchong\SkinnedModelPipeline\bin\Debug\SkinnedModel.dll
+C:\Users\couten\Documents\Visual Studio 2010\Projects\xboxchong\SkinnedModelPipeline\bin\Debug\SkinnedModel.pdb
+C:\Users\couten\Documents\Visual Studio 2010\Projects\xboxchong\SkinnedModelPipeline\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\couten\Documents\Visual Studio 2010\Projects\xboxchong\SkinnedModelPipeline\obj\Debug\SkinnedModelPipeline.dll
+C:\Users\couten\Documents\Visual Studio 2010\Projects\xboxchong\SkinnedModelPipeline\obj\Debug\SkinnedModelPipeline.pdb
+C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\SkinnedModelPipeline\bin\Debug\SkinnedModelPipeline.dll
+C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\SkinnedModelPipeline\bin\Debug\SkinnedModelPipeline.pdb
+C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\SkinnedModelPipeline\bin\Debug\SkinnedModel.dll
+C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\SkinnedModelPipeline\bin\Debug\SkinnedModel.pdb
+C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\SkinnedModelPipeline\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\SkinnedModelPipeline\obj\Debug\SkinnedModelPipeline.dll
+C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\SkinnedModelPipeline\obj\Debug\SkinnedModelPipeline.pdb

@@ -1,0 +1,6 @@
+C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\ZombieEscape\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\ZombieEscape\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\ZombieEscape\bin\Xbox 360\Debug\ZombieEscape.exe
+C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\ZombieEscape\bin\Xbox 360\Debug\ZombieEscape.pdb
+C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\ZombieEscape\obj\Xbox 360\Debug\ZombieEscape.exe
+C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\ZombieEscape\obj\Xbox 360\Debug\ZombieEscape.pdb
