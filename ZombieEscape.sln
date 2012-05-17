@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieEscape", "ZombieEscape\ZombieEscape\ZombieEscape.csproj", "{15676AA1-D4D7-48E2-8AC6-79722E051F97}"
 EndProject
-Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ZombieEscapeContent", "ZombieEscape\ZombieEscapeContent\ZombieEscapeContent.contentproj", "{B35924B0-F42D-4BB4-99BC-C1FB6C4A5741}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieEscapeContent", "ZombieEscape\ZombieEscapeContent\ZombieEscapeContent.contentproj", "{B35924B0-F42D-4BB4-99BC-C1FB6C4A5741}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkinnedModel", "ZombieEscape\SkinnedModel\SkinnedModel.csproj", "{EB8F0C9B-546C-4D8F-B299-85CCBFEC46C7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkinnedModelPipeline", "ZombieEscape\SkinnedModelPipeline\SkinnedModelPipeline.csproj", "{B09F23C7-E5ED-4E39-996A-0D52CE66226E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeightMapCollisionPipeline", "HeightMapCollisionPipeline\HeightMapCollisionPipeline.csproj", "{E0148CE9-2B9B-4551-81D9-A821511F8BB8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,6 +61,16 @@ Global
 		{B09F23C7-E5ED-4E39-996A-0D52CE66226E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{B09F23C7-E5ED-4E39-996A-0D52CE66226E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{B09F23C7-E5ED-4E39-996A-0D52CE66226E}.Release|Xbox 360.ActiveCfg = Release|Any CPU
+		{E0148CE9-2B9B-4551-81D9-A821511F8BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0148CE9-2B9B-4551-81D9-A821511F8BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0148CE9-2B9B-4551-81D9-A821511F8BB8}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{E0148CE9-2B9B-4551-81D9-A821511F8BB8}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{E0148CE9-2B9B-4551-81D9-A821511F8BB8}.Debug|Xbox 360.ActiveCfg = Debug|Any CPU
+		{E0148CE9-2B9B-4551-81D9-A821511F8BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0148CE9-2B9B-4551-81D9-A821511F8BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0148CE9-2B9B-4551-81D9-A821511F8BB8}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{E0148CE9-2B9B-4551-81D9-A821511F8BB8}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{E0148CE9-2B9B-4551-81D9-A821511F8BB8}.Release|Xbox 360.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

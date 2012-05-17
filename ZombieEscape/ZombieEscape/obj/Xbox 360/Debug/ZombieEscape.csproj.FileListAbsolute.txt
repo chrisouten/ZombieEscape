@@ -4,3 +4,10 @@ C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\ZombieEscape\bin\Xb
 C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\ZombieEscape\bin\Xbox 360\Debug\ZombieEscape.pdb
 C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\ZombieEscape\obj\Xbox 360\Debug\ZombieEscape.exe
 C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\ZombieEscape\obj\Xbox 360\Debug\ZombieEscape.pdb
+C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\ZombieEscape\bin\Xbox 360\Debug\Content\grass.xnb
+C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\ZombieEscape\bin\Xbox 360\Debug\Content\terrain.xnb
+C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\ZombieEscape\bin\Xbox 360\Debug\Content\zombie_diff.xnb
+C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\ZombieEscape\bin\Xbox 360\Debug\Content\Spotlight.xnb
+C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\ZombieEscape\bin\Xbox 360\Debug\Content\AnimatedSpotLight.xnb
+C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\ZombieEscape\bin\Xbox 360\Debug\Content\Zombie_Idle01.xnb
+C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\ZombieEscape\bin\Xbox 360\Debug\Content\zombie_diff_0.xnb
