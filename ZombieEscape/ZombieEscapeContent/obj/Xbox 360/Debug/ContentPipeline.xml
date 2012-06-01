@@ -83,6 +83,42 @@
       <Output>C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\ZombieEscape\bin\Xbox 360\Debug\Content\zombie_diff_0.xnb</Output>
       <Time>2012-05-17T09:38:59.9880639-04:00</Time>
     </Item>
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\ZombieEscape\bin\Xbox 360\Debug\Content\blank.xnb</Output>
+      <Time>2012-04-15T17:23:16.4151237-04:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont.spritefont</Source>
+      <Name>menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\ZombieEscape\bin\Xbox 360\Debug\Content\menufont.xnb</Output>
+      <Time>2012-04-15T17:23:16.4307237-04:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\ZombieEscape\bin\Xbox 360\Debug\Content\background.xnb</Output>
+      <Time>2012-04-15T17:23:16.3995237-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gradient.png</Source>
+      <Name>gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\couten\Documents\Projects\ZombieEscape\ZombieEscape\ZombieEscape\bin\Xbox 360\Debug\Content\gradient.xnb</Output>
+      <Time>2012-05-21T09:53:10.9059229-04:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Xbox360</TargetPlatform>
